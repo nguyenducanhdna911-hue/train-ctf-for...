@@ -12,7 +12,7 @@ Flag forma: apoorvctf{.........}
 ## Solution 
 
 ### step1
-sau khi tải file `challenge.pcap.xz1 về thì giải nén nó ra mà mở bằng công cụ `wireshark`
+sau khi tải file `challenge.pcap.xz` về thì giải nén nó ra mà mở bằng công cụ `wireshark`
 
 ### step2 
 sau khi mở file lên thì thấy được rằng ở dòng `no.14` có độ dài dữ liệu bất thường 
@@ -27,6 +27,7 @@ dùng công cụ `" CYBERCHEF " ` để DECODE  và add thêm chức năng RENDE
 
 ### step 4
 sau khi có được file ảnh là 1 mã QR CODE thì đây là 1 flag troll 
-tiến hành phân tích sâu cấu trúc của ảnh để tìm flag bằng công cụ ` " APERI SLOVE " ` thì ra thấy được rằng flag được giấu ở dạng ` Steghide ` thì ở mục Steghide 
+tiến hành phân tích sâu cấu trúc của ảnh để tìm flag bằng công cụ ` " APERI SLOVE " ` 
+thì ra thấy được rằng flag được giấu ở dạng ` Steghide ` thì ở mục Steghide 
 có giấu 1 file` realflag.txt ` ta tải file về và mở bằng NOTEPAD 
 ### FLAG:  apoorvctf{b1ts_wh1sp3r_1n_th3_l0w3st_b1t}
