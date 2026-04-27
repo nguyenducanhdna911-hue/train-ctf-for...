@@ -1,7 +1,8 @@
 # Recovered Signal File  <br>
 ## Description   <br>
 
-This signal was recovered from a Cold War-era satellite. The encryption doesn't appear very advanced, but it was enough to avoid detection at the time.  <br>
+This signal was recovered from a Cold War-era satellite. The encryption doesn't appear very advanced, <br>
+but it was enough to avoid detection at the time.  <br>
 With the right approach, the message should be recoverable.  <br>
 Flag format for this challenge is flag{}.  <br>
 
@@ -19,7 +20,8 @@ aW9kant2ZHdob29sd2hfdmxqcWRvX2doZnJnaGd9
 ```
 
 Nội dung truyền tải mã hóa là :  <br>
-`aW9kant2ZHdob29sd2hfdmxqcWRvX2doZnJnaGd9` đây là đoạn mã hóa 2 lớp là `base64` và `ROT13`   <br>
+`aW9kant2ZHdob29sd2hfdmxqcWRvX2doZnJnaGd9` <br>
+Đây là đoạn mã hóa 2 lớp là `base64` và `ROT13`   <br>
 với nội dung chuyền tải sau khi decode bằng `base64` thì được  <br>
 `iodj{vdwhoolwh_vljqdo_ghfrghg}`   <br>
 
