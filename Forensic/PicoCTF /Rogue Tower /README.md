@@ -7,8 +7,9 @@ find the compromised device, and recover the exfiltrated flag.
 ## Solution 
 ### hint 
 
-<img width="306" height="235" alt="image" src="https://github.com/user-attachments/assets/67989eed-ee87-4323-acd4-8bc440ece0a0" />
-<img width="263" height="183" alt="image" src="https://github.com/user-attachments/assets/158e4d75-1f72-4539-bad3-cf05701f386f" />
+<img width="313" height="232" alt="image" src="https://github.com/user-attachments/assets/5160afee-b915-4e10-b2ef-a7b813650abb" />
+<img width="310" height="246" alt="image" src="https://github.com/user-attachments/assets/85cc766d-4eea-4315-b8f9-573033a7a620" />
+
 
 ### step1
 Tiến hành mở file `rouge_tower.pacap` lên và thấy dc có 3 `pack` có giao thức `UDP` 
