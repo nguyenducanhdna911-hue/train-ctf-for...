@@ -41,5 +41,3 @@ Kiểm tra các Pack có giao thức ` HTTP GET`
 
 
 
-
-
