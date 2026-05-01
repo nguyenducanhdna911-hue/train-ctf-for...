@@ -25,8 +25,30 @@ Tiến hành mở file `rouge_tower.pacap` lên và thấy dc có 3 `pack` có g
 Thấy được ở Pack thứ 3 có thông tin về gói mạng trái phép có `PLMN=00101` và `CELLID=92130` 
 
 ### step2 
-Sau khi có được `CELLID` của gói mạng trái phép là `92130` thì tiến hàng phân tích và tìm thiết bị kết nối.  <br>
-Kiểm tra các Pack có giao thức ` HTTP GET` 
+Sau khi có được `CELLID` của gói mạng trái phép là `92130` thì tiến hàng phân tích <br>
+và tìm thiết bị kết nối vói gói mạng đó mạng trái phép dó <br>
+
+Kiểm tra các Pack có giao thức ` HTTP GET` để tìm thiết bị truy cập vào gói mạng trái phép <br>
+
+<img width="1919" height="392" alt="image" src="https://github.com/user-attachments/assets/4dc41603-4d73-4ad8-9d33-a0c16401a540" />
+<img width="1913" height="123" alt="image" src="https://github.com/user-attachments/assets/dd40b36e-cd71-4e0f-9816-e7a4fb5f14d0" />
+
+
+
+
+Vậy `IMSI` của thiết bị truy cập vào gói mạng là: 
+
+```text
+310410868411126
+```
+
+### step3 
+
+Tiến hành tra cứu dữ liệu được chia nhỏ mà thiết bị đã gửi thông qua
+các `pack` có giao thức `HTTP POST` để tìm flag .
+
+
+
 
 
 
