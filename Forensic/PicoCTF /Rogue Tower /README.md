@@ -7,8 +7,7 @@ find the compromised device, and recover the exfiltrated flag.
 ## Solution 
 ### hint 
 
-<img width="313" height="232" alt="image" src="https://github.com/user-attachments/assets/5160afee-b915-4e10-b2ef-a7b813650abb" />
-<img width="310" height="246" alt="image" src="https://github.com/user-attachments/assets/85cc766d-4eea-4315-b8f9-573033a7a620" />
+<img width="502" height="214" alt="image" src="https://github.com/user-attachments/assets/8e513155-44d6-4006-8284-7102fc228afb" />
 
 
 ### step1
